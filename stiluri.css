@@ -1,0 +1,56 @@
+body{
+	background-color:#CCC;
+}
+
+ol li{
+	list-style-type:none;
+	margin:4% auto;
+	font-size:18px;
+	
+	color:purple;
+}
+ 
+ol li a,a{
+	text-decoration:none;
+	text-align:center;
+}
+
+ol li a:visited{
+	color:magenta;
+}
+
+#img1:hover {
+  border:2px solid black;
+  background: url("./Clasici/slavici2.jpg");
+}
+
+
+#img2:hover{
+	border:2px solid black;
+}
+
+
+p{
+	text-indent:30px;
+	font-size:20px;
+}
+
+.img3{
+	height:250px;
+	width:400px;
+	background-size:cover;
+}
+
+label{
+	font-size:18px;
+}
+
+h1{
+	text-shadow:3px 3px 5px blue;
+	font-size:36px;
+	font-family:cursive;
+}
+
+h3{
+	font-size:22px;
+}
