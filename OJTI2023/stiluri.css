@@ -1,0 +1,120 @@
+*{
+	margin:none;
+}
+body{
+	background-color:lightblue;
+}
+
+header{
+	background-image:linear-gradient(45deg,red,pink,yellow,pink,red);
+	border:3px solid black;
+	height:150px;
+	border-radius:10px;
+	text-color:purple;
+	text-shadow:3px 3px 5px white;
+	font-size:32px;
+	letter-spacing:2px;
+	justify-content:center;
+	font-family:cursive;
+	margin-bottom:8px;
+}
+
+#animatie{
+	animation:name 2s infinite;
+}
+
+@keyframes name{
+	0%{color:red;}
+	50%{color:purple;}
+	100%{color:red;}
+}
+
+ol li{
+	list-style-type:none;
+	font-size:28px;
+	letter-spacing:1px;
+	margin:2% 0;
+}
+
+p{
+	font-size:18px;
+}
+ol li a{
+	text-decoration:none;
+}
+
+ol li a:hover{
+	color:green;
+}
+#main{
+	width:100%;
+	height:auto;
+	display:flex;
+	margin:2% auto auto auto;
+}
+
+#zona3,#zona5{
+	width:17%;
+	display:block;
+}
+#zona4{
+	width:66%;
+	background-color:white;
+	margin:0 2%;
+	height:auto;
+	padding:0 10px 40px 10px;
+}
+#zona5{
+	display:block;
+	width:20%:
+	justify-content:center;
+	text-align:center;
+	align-items:center;
+	font-size:22px;
+
+}
+
+
+#logo{
+	width:30%;
+	height:100%;
+	float:left;
+}
+
+.a:visited{
+	color:grey;
+}
+
+.a:link{
+	color:green;
+}
+.a:active{
+	color:orange;
+}
+
+.img{
+	height:300px;
+	width:50%;
+	background-size:auto;
+	background-repat:no-repeat;
+	margin:10px 13px;
+	border:4px dotted blue;
+
+}
+.img2{
+	height:400px;
+	width:40%;
+	margin:20% 3% 0 3%;
+}
+.el{
+	font-zisez:26px;
+	margin:0 70px;
+
+}
+
+h4{
+	font-size:42px;
+	letter-spacing:2px;
+	color:darkblue;
+	text-shadow:3px 3px pink;
+}

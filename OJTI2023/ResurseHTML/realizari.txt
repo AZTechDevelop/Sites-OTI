@@ -1,0 +1,9 @@
+Grafic.jpg
+politici.html
+reguli.txt
+Sigla.jpg
+Istoria.docx
+discrotativ.mp4
+Jocuri.xlsx
+Digitale.accdb
+DigitExport.xml
